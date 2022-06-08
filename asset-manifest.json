@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02733025.css",
+    "main.js": "/static/js/main.117dae98.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/itstaffm.png": "/static/media/itstaffm.2091912c24a0690cf610.png",
+    "static/media/webappm.png": "/static/media/webappm.bbe7503c72f75a673fe8.png",
+    "static/media/mobilem.png": "/static/media/mobilem.d0a24c55aeeb0d8c049a.png",
+    "static/media/ecomm.png": "/static/media/ecomm.4fa5186b425f2c8fd115.png",
+    "static/media/itstaff.jpg": "/static/media/itstaff.3c33ae15e9b5402fc96d.jpg",
+    "static/media/API1.png": "/static/media/API1.9cdfce5cc64536f36bfd.png",
+    "static/media/home.jpg": "/static/media/home.8940bdff77b5622ba468.jpg",
+    "static/media/one.png": "/static/media/one.b490b2c0bb4382fb80ca.png",
+    "static/media/api2.jpg": "/static/media/api2.ebc78550766afdde81e0.jpg",
+    "static/media/mobileapp.png": "/static/media/mobileapp.5363dacb45f7abdba277.png",
+    "static/media/blogit.jpg": "/static/media/blogit.bfa834c9bf1b040a3e59.jpg",
+    "static/media/itstaff.svg": "/static/media/itstaff.2b3e6ce82c19f13dc3f9b70358caa253.svg",
+    "static/media/ecom.svg": "/static/media/ecom.e1abcec23e70fa3ce54868543672e6d0.svg",
+    "static/media/web.svg": "/static/media/web.a2feab7ddd3614a1574656a077c5090e.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.4b90b826619cba77745b95c3e1a14d1e.svg",
+    "static/media/mobile.svg": "/static/media/mobile.a9b2a49ee03d174b6f6fc3406d646cc9.svg",
+    "index.html": "/index.html",
+    "main.02733025.css.map": "/static/css/main.02733025.css.map",
+    "main.117dae98.js.map": "/static/js/main.117dae98.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02733025.css",
+    "static/js/main.117dae98.js"
+  ]
+}
